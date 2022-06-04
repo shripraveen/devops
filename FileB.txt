@@ -1,1 +1,2 @@
 "this is FileB   --version1" 
+FileB updated
